@@ -1,0 +1,8 @@
+fieldset > textarea, fieldset > button{
+    display: block;
+    margin-bottom: 10px;
+}
+
+fieldset > button{
+    margin-top: 10px;
+}

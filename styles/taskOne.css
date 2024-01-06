@@ -1,0 +1,30 @@
+.firstDiv{
+    border: 1px solid black;
+    border-left: 0;
+    border-right: 0;
+    padding-top: 10px;
+}
+
+figure{
+    margin-left: 0;
+}
+
+img{
+    width: 500px;
+}
+
+form > p{
+    margin-bottom: 0;
+}
+
+form > input{
+    display: block;
+}
+
+form > textarea{
+    display: block;
+}
+
+form > button{
+    margin-top: 20px;
+}

@@ -1,0 +1,8 @@
+div{
+    width: 350px;
+    margin: 10px auto;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
